@@ -1,4 +1,5 @@
 # Computer_Graphics_Robot
+#### 詳細介紹可見 [作業報告](作業報告)
 ## 機器人的動作
 ![alt 機器人動作](./fig/機器人1.png)
 ![alt 機器人動作2](./fig/機器人1_2.png)
